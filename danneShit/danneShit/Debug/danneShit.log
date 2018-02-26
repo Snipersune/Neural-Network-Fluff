@@ -1,0 +1,20 @@
+﻿  Connection.cpp
+  main.c
+c:\users\turbotage\source\repos\danneshit\danneshit\connection.h(10): warning C4031: second formal parameter list longer than the first list
+c:\users\turbotage\source\repos\danneshit\danneshit\connection.h(10): warning C4028: formal parameter 1 different from declaration
+c:\users\turbotage\source\repos\danneshit\danneshit\connection.h(10): warning C4028: formal parameter 2 different from declaration
+c:\users\turbotage\source\repos\danneshit\danneshit\node.h(7): error C2011: 'Node': 'struct' type redefinition
+  c:\users\turbotage\source\repos\danneshit\danneshit\node.h(7): note: see declaration of 'Node'
+c:\users\turbotage\source\repos\danneshit\danneshit\node.h(17): warning C4030: first formal parameter list longer than the second list
+c:\users\turbotage\source\repos\danneshit\danneshit\node.h(17): warning C4028: formal parameter 1 different from declaration
+c:\users\turbotage\source\repos\danneshit\danneshit\node.h(17): warning C4028: formal parameter 2 different from declaration
+  Node.c
+c:\users\turbotage\source\repos\danneshit\danneshit\connection.h(10): warning C4031: second formal parameter list longer than the first list
+c:\users\turbotage\source\repos\danneshit\danneshit\connection.h(10): warning C4028: formal parameter 1 different from declaration
+c:\users\turbotage\source\repos\danneshit\danneshit\connection.h(10): warning C4028: formal parameter 2 different from declaration
+c:\users\turbotage\source\repos\danneshit\danneshit\node.h(7): error C2011: 'Node': 'struct' type redefinition
+  c:\users\turbotage\source\repos\danneshit\danneshit\node.h(7): note: see declaration of 'Node'
+c:\users\turbotage\source\repos\danneshit\danneshit\node.h(17): warning C4030: first formal parameter list longer than the second list
+c:\users\turbotage\source\repos\danneshit\danneshit\node.h(17): warning C4028: formal parameter 1 different from declaration
+c:\users\turbotage\source\repos\danneshit\danneshit\node.h(17): warning C4028: formal parameter 2 different from declaration
+  Generating Code...
